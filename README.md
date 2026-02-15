@@ -11,10 +11,10 @@
     <a href="mailto:namanjain0204@gmail.com">
       <img src="https://img.shields.io/badge/Email-namanjain0204%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/naman-jain">
+    <a href="https://www.linkedin.com/in/naman-jain-621966215/">
       <img src="https://img.shields.io/badge/LinkedIn-Naman%20Jain-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://leetcode.com/namanjain">
+    <a href="https://leetcode.com/u/rukkkkkkk/">
       <img src="https://img.shields.io/badge/LeetCode-Knight%20(1870)-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </div>
@@ -37,7 +37,7 @@
 ## 🚀 Professional Experience
 
 ### **Software Engineer @ Celebal Technologies**
-*Microsoft / AWS / Databricks Partner* | *Oct 2024 - Present*
+*Microsoft / AWS / Databricks Partner* 
 
 > Designing distributed microservices for a specialized AI Chatbot Platform.
 - **🤖 Multi-Agent AI System**: Built a backend using **FastAPI** & **Azure Kubernetes Service (AKS)** to orchestrate specialized agents (RAG, Image, Search).
@@ -46,7 +46,6 @@
 - **📊 Observability**: Instrumented services with **OpenTelemetry** for full-stack tracing and metrics.
 
 ### **Intern @ Celebal Technologies**
-*Feb 2024 - Sep 2024*
 
 - **Generative AI**: Developed RAG pipelines using **Vector Stores** and **Text2SQL** generation.
 - **Data Engineering**: Built document ingestion workflows with **BeautifulSoup** and probabilistic identity resolution algorithms.
@@ -55,9 +54,9 @@
 
 ## 🏆 Key Projects
 
-### 🏗️ [Real-Time Analytics Platform](#)
+### 🏗️ [Real-Time Anamoly Detection Platform](#)
 *Distributed Pipeline & Streaming Processing*
-- **Tech**: Python, Apache Spark, Kafka, Delta Live Tables.
+- **Tech**: Python, Apache Spark, Kafka, Delta Live Tables , Isolation Forest 
 - **Impact**: Deployed pipelines to process high-volume sensor telemetry with low latency.
 - **Innovation**: Applied **Granger Causality** to correlate multi-sensor time series events.
 
